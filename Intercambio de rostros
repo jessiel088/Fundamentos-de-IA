@@ -1,3 +1,6 @@
+#Fuente de donde saque el codigo
+#https://unipython.com/algoritmo-intercambio-caras/
+
 import cv2
 import dlib
 import numpy
